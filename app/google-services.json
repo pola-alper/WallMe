@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "604561620960",
+    "firebase_url": "https://wallme-cdcee.firebaseio.com",
+    "project_id": "wallme-cdcee",
+    "storage_bucket": "wallme-cdcee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604561620960:android:f4187a7e24db8239",
+        "android_client_info": {
+          "package_name": "com.alper.pola.andoid.wallme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604561620960-m9vn277uu1mb7dvhfi1959n2bm5nevf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alper.pola.andoid.wallme",
+            "certificate_hash": "e22f0004e55b59137be952414c4d813bc7f91e90"
+          }
+        },
+        {
+          "client_id": "604561620960-j5df7aqp8t6b04o9567hl23qm84r2r7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-vi7zIXP4EQvWczrb_VH8pq3hbOAZ3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604561620960-j5df7aqp8t6b04o9567hl23qm84r2r7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
